@@ -2,8 +2,11 @@
                                                  https://x.com/pl_wanfeng 👋
 ## 如果你是一个小白，请看这里：
                                         https://github.com/plwanfeng/Scripting-tutorial
-                                  
+
+<div align=center>
+<img src="https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-2.png" width="180" height="105"> width="180" height="105"/>
+</div>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=崇尚科学，通过每一根毛验证加密领域的算法最优解)
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=plwanfeng)
-<center>这一行需要居中</center>
