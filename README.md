@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/71b1ab8c-ab18-4545-ad9c-676fdef40a5f)
 
 <!--
 **plwanfeng/plwanfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
