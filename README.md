@@ -12,3 +12,7 @@
 <div align=center>
 <img src="https://github-immortality.vercel.app/api?username=plwanfeng" width="2000" height="300">
 </div>
+
+<h2>如果你是一个小白，请先看这里</h2>
+  <h4>https://github.com/plwanfeng/Scripting-tutorial 👋 </h2>                              
+</div>
