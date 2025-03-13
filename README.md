@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](https://github.com/user-attachments/assets/af09f3c5-230b-4760-8799-318c65d14f63)
+[![image](https://github.com/user-attachments/assets/af09f3c5-230b-4760-8799-318c65d14f63)](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 
 <!--
