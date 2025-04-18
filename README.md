@@ -5,7 +5,7 @@
  <div align=center>                                                
 
 <div align=center>
-<img src="https://readme-typing-svg.demolab.com/?lines=崇尚科学，通过每一根毛验证加密领域的算法最优解)" width="700" height="100">
+
 </div>
 
 
